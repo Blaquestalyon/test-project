@@ -1,0 +1,7 @@
+{
+  "expo": {
+    "name": "test-project",
+    "slug": "test-project",
+    "extra": { "eas": { "projectId": "984a7c62-0eb6-4b85-a797-0a1372467aa2" } }
+  }
+}
